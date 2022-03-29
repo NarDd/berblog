@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Bernard"}},"allMarkdownRemark":{"nodes":[{"excerpt":"I started this site in order to pen down my learning journey in coding. The motivation started when I received my first FAANG interview. I…","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"March 30, 2022","title":"The Beginning","description":"The reason for starting this and the reason why it is what it is."}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383"]}

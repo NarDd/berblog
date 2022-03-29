@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_blog=self.webpackChunkgatsby_starter_blog||[]).push([[486],{1647:function(e,t,a){a.r(t);var l=a(7294);a(1597);t.default=function(){return l.createElement(l.Fragment,null,l.createElement("div",{className:"profile-section-me"},l.createElement("div",{className:"profile-section-me-text"},l.createElement("span",null,"Software Developer"),l.createElement("br",null),l.createElement("span",null,"Based in Singapore"))))}}}]);
+//# sourceMappingURL=component---src-pages-profile-js-deaff5fcbcb2233ba79f.js.map
