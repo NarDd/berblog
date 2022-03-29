@@ -1,0 +1,57 @@
+.splash-screen {
+    background-color: antiquewhite;
+    background-image: url("../../images/patterns.svg");
+    background-blend-mode: difference;
+    height: 100vh;
+}
+
+.splash-container {
+    display: flex;           
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;  
+    height: 100vh;
+}
+
+.splash-image {
+    height: 60vh;
+}
+
+.splash-actions{
+    background-color: #F9F9F9;
+    opacity: 94%;
+    border-radius: 2em;
+    padding: 2em;
+}
+
+.fade-in-image {
+    animation: fadeIn 3s;
+    -webkit-animation: fadeIn 3s;
+    -moz-animation: fadeIn 3s;
+    -o-animation: fadeIn 3s;
+    -ms-animation: fadeIn 3s;
+  }
+  @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }

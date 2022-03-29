@@ -1,0 +1,75 @@
+body{
+  /* background-color: #051527; */
+  background-color: antiquewhite;
+  background-image: url("./images/patterns.svg");
+  background-blend-mode: difference;
+  min-height:100vh;
+  color: teal;
+}
+
+.main-body{
+  background-color: antiquewhite;
+  background-image: url("./images/patterns.svg");
+  background-blend-mode: difference;
+  min-height:100vh;
+  color: teal;
+}
+
+/* Profile */
+.profile-bg {
+  height:100vh;
+}
+
+
+.profile-section-me{
+  overflow:hidden;
+  display:flex;
+  height:100vh;
+  background: linear-gradient(110deg, #051527 60%, rgb(190, 190, 201) 60%);
+}
+
+.profile-section-me{
+  align-items: center;
+  padding:2em;
+}
+
+.profile-section-me-text > :first-child{
+  color:white;
+  font-size: 6vw;
+}
+
+.profile-section-me-text > :nth-child(3){
+  color:white;
+}
+
+
+.blog{
+  display: flex;
+  justify-content: center;
+}
+
+.blog-card{
+  background-color: white;
+  margin:2em;
+}
+
+.container{
+  padding: 1em;
+}
+
+.blog-post{
+  background-color: white;
+  margin:2em;
+  padding: 2em;
+}
+
+article{
+  padding-bottom: 2em;
+}
+
+.blog-post-nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top:1em;
+}
